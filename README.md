@@ -5,7 +5,15 @@
   <img src="https://img.shields.io/badge/LOC-4900+-orange?style=for-the-badge" />
 </p>
 
-<h1 align="center">🔍 DLLHijackHunter</h1>
+```
+    ____  __    __    __  ___   _            __   __  __            __           
+   / __ \/ /   / /   / / / (_) (_)___ ______/ /__/ / / /_  ______  / /____  _____
+  / / / / /   / /   / /_/ / / / / __ `/ ___/ //_/ /_/ / / / / __ \/ __/ _ \/ ___/
+ / /_/ / /___/ /___/ __  / / / / /_/ / /__/ ,< / __  / /_/ / / / / /_/  __/ /    
+/_____/_____/_____/_/ /_/_/_/ /\__,_/\___/_/|_/_/ /_/\__,_/_/ /_/\__/\___/_/     
+                         /___/                                                    
+                              By GhostVector Academy
+```
 
 <p align="center">
   <strong>Automated DLL Hijacking Detection with Zero False Positives</strong><br/>
